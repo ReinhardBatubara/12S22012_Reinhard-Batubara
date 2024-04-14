@@ -74,13 +74,3 @@ course-history#12S1101
 12S1101|Introduction to Information Systems|3|C|2021/2022|odd|IUS (iustisia.simbolon@del.ac.id)
 12S1101|12S20002|2021/2022|odd|-
 ```
-
-## Contributing
-
-Join us in shaping the future of academic administration! Whether you have ideas for enhancements or new features, your contributions are invaluable. Feel free to open issues or submit pull requests to make our system even better.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You're encouraged to leverage, modify, and distribute the code for both educational and commercial purposes.
-
-Thank you for choosing the Academic Management System! For any inquiries or assistance, our team is here to support you every step of the way. Let's embark on this academic journey together.
